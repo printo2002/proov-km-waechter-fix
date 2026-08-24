@@ -11,5 +11,8 @@ Bugs where mentioned by the agent as per my request, 80% rule is untouched i hav
 
 
 ## What the data actually said
-(Which factors predict a breakdown, and which obvious-looking one turned out not to?)
-Broke-down cars: 11,678 km avg vs 7,261 km for survivors — 61% higher
+
+Broke down car drives 11678 km average compared to survivors  drives 7261 on an average. 
+
+
+
