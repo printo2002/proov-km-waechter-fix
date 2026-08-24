@@ -7,7 +7,6 @@ Even though i have mentioned all specific details in one prompt.
 I have to re-mention about 
 
 ## What I checked before I accepted its work
-(How do you KNOW the wear bug is fixed and the 80% rule is untouched? What did you run?)
 Bugs where mentioned by the agent as per my request, 80% rule is untouched i have verified myself & the agent have mentioned it in the chats.
 
 
